@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\obj\Debug\BankoveUctyPrevod.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\obj\Debug\BankoveUctyPrevod.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\bin\Debug\BankoveUctyPrevod.exe.config
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\bin\Debug\BankoveUctyPrevod.exe
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\bin\Debug\BankoveUctyPrevod.pdb
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\obj\Debug\BankoveUctyPrevod.exe
+C:\Users\Gebruiker\Dropbox\My PC (LAPTOP-UBOR1317)\Desktop\metis zadania\C#zadania\BankoveUctyPrevod\BankoveUctyPrevod\obj\Debug\BankoveUctyPrevod.pdb
