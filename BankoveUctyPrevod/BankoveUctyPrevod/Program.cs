@@ -10,27 +10,7 @@ namespace BankoveUctyPrevod
     {
         static void Main(string[] args)
         {
-            double MojIban = 100;
-            double Iban1 = 200; // dalsia zmena
-            double Iban2 = 200; // 13546461654132168646465
-            int vstup;
-            Console.WriteLine($"vas aktualny stav na ucte je {MojIban} $");
-            do
-            {
-                
-                Console.WriteLine("na ktory ucet chcete zaslat dolace >1< pre Iban1 alebo >2< pre  Iban2");               
-                vstup = Int32.Parse(Console.ReadLine());
-                if (vstup > 2 | vstup < 1)
-                {
-                    Console.WriteLine("nespravna moznost skuste to znova");
-                }
-            }
-            while (vstup != 1 && vstup != 2);
-            {  
-                while (vstup!=3) {
-                    Console.WriteLine($"zvolili ste platbu na Iban{vstup} kolko chcete odoslat dolacov.. >1< 10$ , >2< 20$ ");
-                    if (vstup == 1)
-                    {                     
+          
                         int vstup1 = Int32.Parse(Console.ReadLine());
                         if (vstup1 == 1)
                         {
