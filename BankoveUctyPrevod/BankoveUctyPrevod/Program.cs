@@ -11,7 +11,7 @@ namespace BankoveUctyPrevod
         static void Main(string[] args)
         {
             double MojIban = 100;
-            
+            double Iban1 = 200; // dalsia zmena
             double Iban2 = 200; // 13546461654132168646465
             int vstup;
             Console.WriteLine($"vas aktualny stav na ucte je {MojIban} $");
